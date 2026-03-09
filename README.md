@@ -24,6 +24,15 @@ Cette technique est utilisée dans plusieurs frameworks modernes comme **Spring*
 
 ---
 
+## Structure du projet
+
+
+<img width="459" height="547" alt="Screenshot 2026-03-09 at 15 34 25" src="https://github.com/user-attachments/assets/99083cd5-2051-414d-ad10-91db42f61296" />
+
+
+
+---
+
 ## Affichage
 
 <img width="1324" height="204" alt="Screenshot 2026-03-09 at 15 13 24" src="https://github.com/user-attachments/assets/edf99d68-466c-4d32-990c-6b0a448f2fdc" />
