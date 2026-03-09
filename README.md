@@ -26,6 +26,7 @@ Cette technique est utilisée dans plusieurs frameworks modernes comme **Spring*
 
 ## Affichage
 
+<img width="1324" height="204" alt="Screenshot 2026-03-09 at 15 13 24" src="https://github.com/user-attachments/assets/edf99d68-466c-4d32-990c-6b0a448f2fdc" />
 
 
 
